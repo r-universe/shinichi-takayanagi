@@ -8,3 +8,8 @@
 	url = https://github.com/shinichi-takayanagi/frequentdirections
 	shallow = true
 	registered = true
+[submodule "MNIST"]
+	path = MNIST
+	url = https://github.com/stillmatic/MNIST
+	shallow = true
+	registered = false
