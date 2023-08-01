@@ -2,10 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "frequentdirections"]
-	path = frequentdirections
-	url = https://github.com/shinichi-takayanagi/frequentdirections
 [submodule "MNIST"]
 	path = MNIST
 	url = https://github.com/stillmatic/MNIST
 	registered = false
+[submodule "frequentdirections"]
+	path = frequentdirections
+	url = https://github.com/shinichi-takayanagi/frequentdirections
